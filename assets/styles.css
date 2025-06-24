@@ -1,0 +1,19 @@
+/* Estilo personalizado para el botón del test */
+.btn-test {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  background-color: #dc3545; /* rojo bootstrap */
+  border: none;
+}
+
+/* Espaciado extra para el formulario */
+#contactoForm {
+  margin-top: 3rem;
+}
+
+/* Título del formulario */
+#contactoFormTitle {
+  margin-top: 3rem;
+  font-size: 1.75rem;
+  font-weight: bold;
+}
